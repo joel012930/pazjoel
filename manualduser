@@ -1,0 +1,31 @@
+Manual de Usuario: Grita Va (Versión Paz)
+
+Para ejecutar la aplicación correctamente, sigue estos pasos en la terminal:
+1. Clonar el repositorio
+
+Descarga el código fuente a tu máquina local:
+Bash
+
+git clone <https://github.com/joel012930/pazjoel.git>
+
+2. Abrir el proyecto
+
+Entra en la carpeta del proyecto y abre el entorno de desarrollo:
+Bash
+
+cd grita-va-paz
+code .
+
+3. Instalar dependencias
+
+Configura todas las librerías necesarias utilizando Bun:
+Bash
+
+bun install
+
+4. Iniciar la aplicación
+
+Lanza el servidor de desarrollo de Expo:
+Bash
+
+bun expo start

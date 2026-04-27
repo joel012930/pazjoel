@@ -8,7 +8,7 @@ const { height, width } = Dimensions.get('window');
 const UMBRAL_COLAPSO_DB = -15;
 const UMBRAL_INTENTA_DB = -35;
 const UMBRAL_SUSURRO_DB = -50;
-const TIEMPO_EVALUACION_MS = 1500;
+const TIEMPO_EVALUACION_MS = 1;
 const DURACION_ANIMACION_MS = 500;
 
 export default function PantallaPrincipal() {
